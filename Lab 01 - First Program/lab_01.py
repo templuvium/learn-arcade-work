@@ -1,1 +1,5 @@
-print("Hello")
+print("this text is so long and deep")
+print("no one will ever read this")
+print("but if you do")
+print("you gotta know that")
+print("this is a waste of time.")
